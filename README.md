@@ -6,4 +6,4 @@
 
 1. A link to the Layer 1 address you funded on the
 
-https://explorer.nervos.org/aggron/address/ckt1qyq85e3gm7h8095uny2dggs36dqns75rhdsq8zdn9m
+[Explorer Layer 1 address](https://explorer.nervos.org/aggron/address/ckt1qyq85e3gm7h8095uny2dggs36dqns75rhdsq8zdn9m)
