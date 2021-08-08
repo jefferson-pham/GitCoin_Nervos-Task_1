@@ -7,3 +7,8 @@
 1. A link to the Layer 1 address you funded on the
 
 [Explorer Layer 1 address](https://explorer.nervos.org/aggron/address/ckt1qyq85e3gm7h8095uny2dggs36dqns75rhdsq8zdn9m)
+
+2. A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2
+
+![image](https://user-images.githubusercontent.com/87713875/128643341-16900865-092d-4a62-a014-f8605737d93e.png)
+
